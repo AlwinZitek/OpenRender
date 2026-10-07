@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 48f74617761460346bfbc4ab63eee4a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2444263932364560572
+    second: icon_ungroup_white_0
+  - first:
+      213: -544112786759162413
+    second: icon_ungroup_white_1
+  - first:
+      213: 2948362862603784111
+    second: icon_ungroup_white_2
+  - first:
+      213: -637483095680016313
+    second: icon_ungroup_white_3
+  - first:
+      213: -2833931321576780807
+    second: icon_ungroup_white_4
+  - first:
+      213: -5923073525619929490
+    second: icon_ungroup_white_5
+  - first:
+      213: 8129287166860499994
+    second: icon_ungroup_white_6
+  - first:
+      213: 1211996871970996569
+    second: icon_ungroup_white_7
+  - first:
+      213: 7102233063985917012
+    second: icon_ungroup_white_8
+  - first:
+      213: 5852122898742611485
+    second: icon_ungroup_white_9
+  - first:
+      213: -9025125488696863254
+    second: icon_ungroup_white_10
+  - first:
+      213: 7749645345063557455
+    second: icon_ungroup_white_11
+  - first:
+      213: -6427943468967862380
+    second: icon_ungroup_white_12
+  - first:
+      213: -8996940224345126878
+    second: icon_ungroup_white_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icon_ungroup_white_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 9
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4476c1e57ea341ed0800000000000000
+      internalID: -2444263932364560572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ungroup_white_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 109
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5e873ad4ce278f0800000000000000
+      internalID: -544112786759162413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ungroup_white_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 109
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafc3760760bae820800000000000000
+      internalID: 2948362862603784111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ungroup_white_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 96
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7402da380843727f0800000000000000
+      internalID: -637483095680016313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ungroup_white_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 64
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb00935a7adba8d0800000000000000
+      internalID: -2833931321576780807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ungroup_white_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 66
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e47ee92040dcda0800000000000000
+      internalID: -5923073525619929490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ungroup_white_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 64
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c9cd18b9701d070800000000000000
+      internalID: 8129287166860499994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ungroup_white_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 32
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95147becbb0e1d010800000000000000
+      internalID: 1211996871970996569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ungroup_white_8
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 26
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c2aeaa753309260800000000000000
+      internalID: 7102233063985917012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ungroup_white_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 32
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e8b7145cae63150800000000000000
+      internalID: 5852122898742611485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ungroup_white_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 9
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae556e86f2050c280800000000000000
+      internalID: -9025125488696863254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ungroup_white_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 9
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49d5c7c1654c8b60800000000000000
+      internalID: 7749645345063557455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ungroup_white_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 9
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fd0efb87b5bc6a0800000000000000
+      internalID: -6427943468967862380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_ungroup_white_13
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2284c76a882742380800000000000000
+      internalID: -8996940224345126878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 77efa4e47150c0947922953d75995e88
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      icon_ungroup_white_0: -2444263932364560572
+      icon_ungroup_white_1: -544112786759162413
+      icon_ungroup_white_10: -9025125488696863254
+      icon_ungroup_white_11: 7749645345063557455
+      icon_ungroup_white_12: -6427943468967862380
+      icon_ungroup_white_13: -8996940224345126878
+      icon_ungroup_white_2: 2948362862603784111
+      icon_ungroup_white_3: -637483095680016313
+      icon_ungroup_white_4: -2833931321576780807
+      icon_ungroup_white_5: -5923073525619929490
+      icon_ungroup_white_6: 8129287166860499994
+      icon_ungroup_white_7: 1211996871970996569
+      icon_ungroup_white_8: 7102233063985917012
+      icon_ungroup_white_9: 5852122898742611485
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
