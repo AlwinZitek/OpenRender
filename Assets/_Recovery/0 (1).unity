@@ -3045,6 +3045,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 332106497}
+  - component: {fileID: 332106498}
   m_Layer: 0
   m_Name: Manager
   m_TagString: Untagged
@@ -3080,6 +3081,20 @@ Transform:
   - {fileID: 830657942}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &332106498
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 332106496}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e6606e04e9fb6a46ad6fdb7d7e21929, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DarkTitleBar
+  captionColor: {r: 0, g: 0, b: 0, a: 1}
+  textColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!224 &338121786 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 2399604844076839643, guid: a9ea94646d2cd1546b12daa8994287b9, type: 3}
@@ -12348,8 +12363,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 20
-  m_fontSizeBase: 20
+  m_fontSize: 24
+  m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -13800,7 +13815,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.9019608}
+  m_Color: {r: 0.10980392, g: 0.10980392, b: 0.10980392, a: 0.9019608}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
