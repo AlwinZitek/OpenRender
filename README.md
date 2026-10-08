@@ -14,11 +14,11 @@ Um das Projekt selbst zu bearbeiten:
 Verbesserungen, neue Funktionen und Beiträge zur Weiterentwicklung sind ausdrücklich willkommen. Änderungen können über einen Fork und einen Pull Request auf GitHub vorgeschlagen werden.
 
 # Über OpenRender
-OpenRender wurde im Jahr 2026 von Alwin Zitek und Andreas Zitek an der [BOKU University](https://www.boku.ac.at) entwickelt.
-Die Software ist unter der MIT-Lizenz auf [GitHub](https://github.com/AlwinZitek/OpenRender) verfügbar.
+OpenRender wurde im Jahr 2026 von Alwin Zitek und Andreas Zitek an der [BOKU University](https://www.boku.ac.at){:target="_blank"} entwickelt.
+Die Software ist unter der MIT-Lizenz auf [GitHub](https://github.com/AlwinZitek/OpenRender){:target="_blank"} verfügbar.
 
 Die in OpenRender bereitgestellten Icons sind ausschließlich CC0-lizenziert (Public Domain) und stammen aus folgender Online-Sammlung:
-[https://bioicons.com/](https://bioicons.com/)
+[https://bioicons.com/](https://bioicons.com/{:target="_blank"}.
 
 Diese Informationen können auch über einen About-Button innerhalb der Software angezeigt werden.
 
