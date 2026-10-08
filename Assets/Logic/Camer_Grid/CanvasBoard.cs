@@ -12,11 +12,20 @@ public class CanvasBoard : MonoBehaviour
 
     void Start()
     {
-        var sr = gameObject.AddComponent<SpriteRenderer>();
+
+        var sr = GetComponent<SpriteRenderer>();
+        if (sr == null) sr = gameObject.AddComponent<SpriteRenderer>();
+        if (sr == null)
+        {
+            Debug.LogError("CanvasBoard: SpriteRenderer konnte nicht hinzugefügt werden – " +
+                           "vermutlich sitzt ein MeshRenderer/MeshFilter auf dem Objekt.", this);
+            return;
+        }
         sr.sprite = CreateWhiteSprite();
-        sr.sortingOrder = -10;
-        transform.localScale = new Vector3(canvasSize.x, canvasSize.y, 1);
-        transform.position = Vector3.zero;
+            sr.sortingOrder = -10;
+            transform.localScale = new Vector3(canvasSize.x, canvasSize.y, 1);
+            transform.position = Vector3.zero;
+        
 
         // Grid Material anwenden
         if (gridMaterial != null)

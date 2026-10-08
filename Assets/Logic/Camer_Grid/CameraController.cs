@@ -51,6 +51,11 @@ public class CameraController : MonoBehaviour
 
     void HandleZoom()
     {
+        // Ueber der UI gehoert das Mausrad dem Scroll View, nicht der Kamera
+        if (UnityEngine.EventSystems.EventSystem.current != null &&
+            UnityEngine.EventSystems.EventSystem.current.IsPointerOverGameObject())
+            return;
+
         float scroll = Mouse.current.scroll.ReadValue().y / 120f;
         if (Mathf.Approximately(scroll, 0f)) return;
 
