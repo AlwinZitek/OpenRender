@@ -17,7 +17,7 @@ Verbesserungen, neue Funktionen und Beiträge zur Weiterentwicklung sind ausdrü
 OpenRenderDemo wurde im Jahr 2026 von Alwin Zitek und Andreas Zitek an der [BOKU University](https://www.boku.ac.at) entwickelt.
 Die Software ist unter der MIT-Lizenz auf [GitHub](https://github.com/AlwinZitek/OpenRender) verfügbar .
 
-Die in OpenRenderDemo bereitgestellten Icons sind ausschließlich CC0-lizenziert (Public Domain) und stammen aus folgenden Online-Sammlungen:
+CC0-lizenziert (Public Domain) können aus folgenden Online-Sammlungen importiert werden:
 1. [https://bioicons.com/](https://bioicons.com/)
 2. [https://bioart.niaid.nih.gov/](https://bioart.niaid.nih.gov/discover?sort=date_desc&license=Public+Domain)
 
