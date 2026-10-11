@@ -445,8 +445,8 @@ MonoBehaviour:
   credits: "<size=150%><b>\xDCber OpenRender</b></size>\n\nOpenRender wurde von Alwin
     Zitek und Andreas Zitek im Jahr 2026 an der <link=\"https://boku.ac.at\"><color=#3A7BD5><u>BOKU
     University</u></color></link> entwickelt und steht unter der MIT-Lizenz auf <link=\"https://github.com/AlwinZitek/OpenRender\"><color=#3A7BD5><u>GitHub</u></color></link>
-    zur Verf\xFCgung.\n\nDie mitgelieferten Icons sind ausnahmslos CC0-lizenziert
-    oder Public Domain und stammen aus folgenden Online-Sammlungen:\n- <link=\"https://bioicons.com\"><color=#3A7BD5><u>Bioicons</u></color></link>\n-
+    zur Verf\xFCgung.\n\nCC0-lizenziert (Public Domain) k\xF6nnen aus folgenden Online-Sammlungen
+    importiert werden:\n- <link=\"https://bioicons.com\"><color=#3A7BD5><u>Bioicons</u></color></link>\n-
     <link=\"https://bioart.niaid.nih.gov\"><color=#3A7BD5><u>NIH BioArt Source</u></color></link>\n\nViel
     Spa\xDF!"
 --- !u!114 &21898282
