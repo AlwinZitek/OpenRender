@@ -30,4 +30,4 @@ Weitere Informationen finden sich in der Datei "LICENSE" dieses Repositories.
 Die verwendeten CC0-Icons können unabhängig davon gemäß ihren jeweiligen Lizenzbedingungen genutzt werden.
 
 # Viel Spaß mit OpenRenderDemo! 
-# Wenn Du mit einer ganz auf Dich zugeschnittenen Version mit ausschließlich selst hinzugefügten Icons starten möchtest, verwende gleich OpenRender.
+# Wenn Du mit einer ganz auf Dich zugeschnittenen Version mit ausschließlich selbst hinzugefügten Icons starten möchtest, verwende gleich OpenRender.
