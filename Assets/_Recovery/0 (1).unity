@@ -442,8 +442,8 @@ MonoBehaviour:
   closeButton: {fileID: 669496305}
   backdropButton: {fileID: 2105280778}
   creditsText: {fileID: 1357827130}
-  credits: "<size=150%><b>\xDCber OpenRender</b></size>\n\nOpenRender wurde von Alwin
-    Zitek und Andreas Zitek im Jahr 2026 an der <link=\"https://boku.ac.at\"><color=#3A7BD5><u>BOKU
+  credits: "<size=150%><b>\xDCber OpenRenderDemo</b></size>\n\nOpenRenderDemo wurde
+    von Alwin Zitek und Andreas Zitek im Jahr 2026 an der <link=\"https://boku.ac.at\"><color=#3A7BD5><u>BOKU
     University</u></color></link> entwickelt und steht unter der MIT-Lizenz auf <link=\"https://github.com/AlwinZitek/OpenRender\"><color=#3A7BD5><u>GitHub</u></color></link>
     zur Verf\xFCgung.\n\nDie mitgelieferten Icons sind ausnahmslos CC0-lizenziert
     oder Public Domain und stammen aus folgenden Online-Sammlungen:\n- <link=\"https://bioicons.com\"><color=#3A7BD5><u>Bioicons</u></color></link>\n-
