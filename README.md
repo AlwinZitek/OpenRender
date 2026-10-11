@@ -1,4 +1,4 @@
-# OpenRender
+# OpenRenderDemo
 OpenRender ist eine mit der Unity-Engine entwickelte Open-Source-Software zur Herstellung von kombinierten PNG-Grafiken für unterschiedliche Anwendungsbereiche, z.B. zur Erstellung von visuellen Abstracts. Sie ist derzeit als .EXE Datei für MS Windows verfügbar (unter [Releases](https://github.com/AlwinZitek/OpenRender/releases)).
 
 # Download und Weiterentwicklung
