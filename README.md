@@ -1,5 +1,5 @@
 # OpenRenderDemo
-OpenRenderDemo is a demo version of an open-source software developed with the Unity engine for creating composite PNG graphics for various applications, such as visual abstracts. It is currently available as an .exe file for Microsoft Windows (see [Releases](https://github.com/AlwinZitek/OpenRender/releases)). 
+OpenRenderDemo is a demo version of the open-source software OpenRender developed with the Unity engine for creating composite PNG graphics for various applications, such as visual abstracts. It is currently available as an .exe file for Microsoft Windows (see [Releases](https://github.com/AlwinZitek/OpenRender/releases)). 
 
 # Download and further development
 OpenRenderDemo can be downloaded from GitHub, customized, and extended with new features. For demonstration purposes, the Demo-version includes a selection of openly licensed biology icons, which cannot be deleted in the demo version.
