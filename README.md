@@ -2,7 +2,7 @@
 OpenRender is open-source software developed with the Unity engine for creating composite PNG graphics for various applications, such as visual abstracts. It is currently available as an .exe file for Microsoft Windows (see [Releases](https://github.com/AlwinZitek/OpenRender/releases)). 
 
 # Download und Weiterentwicklung
-OpenRender can be downloaded from GitHub, customized, and extended with new features. For demonstration purposes, the Demo version includes a selection of openly licensed biology icons, which cannot be deleted in the demo version.
+OpenRender can be downloaded from GitHub, customized, and extended with new features. For demonstration purposes, the Demo-version includes a selection of openly licensed biology icons, which cannot be deleted in the demo version.
 
 To edit the project yourself:
 1. Download the project: Download the repository via Code → Download ZIP, or clone it using Git.
@@ -15,7 +15,7 @@ Improvements, new features, and contributions to further development are warmly 
 
 # About OpenRender
 OpenRender was developed in 2026 by Alwin Zitek and Andreas Zitek within the [EPICUR-project](https://epicur.edu.eu/) at [BOKU University](https://www.boku.ac.at).
-DThe software is available on [GitHub](https://github.com/AlwinZitek/OpenRender) under the MIT License.
+The software is available on [GitHub](https://github.com/AlwinZitek/OpenRender) under the MIT License.
 
 CC0-lizenziert (Public Domain) can be imported from different Online-collections like:
 1. [https://bioicons.com/](https://bioicons.com/)
