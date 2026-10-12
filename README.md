@@ -1,32 +1,32 @@
 # OpenRender
-OpenRender ist eine mit der Unity-Engine entwickelte Open-Source-Software zur Herstellung von kombinierten PNG-Grafiken für unterschiedliche Anwendungsbereiche, z.B. zur Erstellung von visuellen Abstracts. Sie ist derzeit als .EXE Datei für MS Windows verfügbar (unter [Releases](https://github.com/AlwinZitek/OpenRender/releases)). 
+OpenRender is open-source software developed with the Unity engine for creating composite PNG graphics for various applications, such as visual abstracts. It is currently available as an .exe file for Microsoft Windows (see [Releases](https://github.com/AlwinZitek/OpenRender/releases)). 
 
 # Download und Weiterentwicklung
-OpenRender kann auf GitHub heruntergeladen, angepasst und um neue Funktionen erweitert werden. Es beinhaltet zu Demonstrationszwecken bereits eine Auswahl an offenen Bio-Icons (die in der Demoversion nicht gelöscht werden können).
+OpenRender can be downloaded from GitHub, customized, and extended with new features. For demonstration purposes, the Demo version includes a selection of openly licensed biology icons, which cannot be deleted in the demo version.
 
-Um das Projekt selbst zu bearbeiten:
-1. Projekt herunterladen: Das Repository über Code → Download ZIP herunterladen oder mit Git klonen.
-2. Unity installieren: Den "Unity Hub" (https://unity.com/download) herunterladen und installieren.
-3. Unity-Version auswählen: Die passende Unity-Editor-Version installieren. Die ursprünglich verwendete Version ist in "ProjectSettings/ProjectVersion.txt" angegeben.
-4. Projekt öffnen: Im Unity Hub über Add project from disk den heruntergeladenen und entpackten Projektordner auswählen.
-5. Projekt weiterentwickeln: OpenRender im Unity Editor öffnen, bearbeiten und nach eigenen Vorstellungen erweitern.
+To edit the project yourself:
+1. Download the project: Download the repository via Code → Download ZIP, or clone it using Git.
+2. Install Unity: Download and install Unity Hub (https://unity.com/download).
+3. Select the Unity version: Install the appropriate Unity Editor version. The version originally used is specified in ProjectSettings/ProjectVersion.txt.
+4. Open the project: In Unity Hub, select Add project from disk and choose the downloaded and extracted project folder.
+5. Develop the project further: Open OpenRender in the Unity Editor, modify it, and extend it to suit your needs.
 
-Verbesserungen, neue Funktionen und Beiträge zur Weiterentwicklung sind ausdrücklich willkommen. Änderungen können über einen Fork und einen Pull Request auf GitHub vorgeschlagen werden.
+Improvements, new features, and contributions to further development are warmly welcomed. Changes can be proposed by forking the repository and submitting a pull request on GitHub.
 
-# Über OpenRender
-OpenRender wurde im Jahr 2026 von Alwin Zitek und Andreas Zitek an der [BOKU University](https://www.boku.ac.at) entwickelt.
-Die Software ist unter der MIT-Lizenz auf [GitHub](https://github.com/AlwinZitek/OpenRender) verfügbar .
+# About OpenRender
+OpenRender was developed in 2026 by Alwin Zitek and Andreas Zitek within the [EPICUR-project](https://epicur.edu.eu/) at [BOKU University](https://www.boku.ac.at).
+DThe software is available on [GitHub](https://github.com/AlwinZitek/OpenRender) under the MIT License.
 
-CC0-lizenziert (Public Domain) können aus folgenden Online-Sammlungen importiert werden:
+CC0-lizenziert (Public Domain) can be imported from different Online-collections like:
 1. [https://bioicons.com/](https://bioicons.com/)
 2. [https://bioart.niaid.nih.gov/](https://bioart.niaid.nih.gov/discover?sort=date_desc&license=Public+Domain)
 
-Diese Informationen können auch über einen About-Button innerhalb der Software angezeigt werden.
+This information can also be displayed via an About button within the software.
 
-# Lizenz
-OpenRender wird unter der MIT-Lizenz veröffentlicht. 
-Die Software darf gemäß den Lizenzbedingungen frei verwendet, kopiert, verändert und weitergegeben werden. Der Copyright- und Lizenzhinweis muss dabei erhalten bleiben.
-Weitere Informationen finden sich in der Datei "LICENSE" dieses Repositories. 
-Die verwendeten CC0-Icons können unabhängig davon gemäß ihren jeweiligen Lizenzbedingungen genutzt werden.
+# License
+OpenRender is released under the MIT License.
+The software may be freely used, copied, modified, and distributed in accordance with the license terms. The copyright and license notice must be retained.
+Further information can be found in the “LICENSE” file in this repository.
+The CC0 icons used may be used independently in accordance with their respective license terms.
 
-# Viel Spaß mit OpenRender! 
+# Have fun with OpenRender!
