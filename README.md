@@ -17,7 +17,7 @@ Improvements, new features, and contributions to further development are warmly 
 OpenRender was developed in 2026 by Alwin Zitek and Andreas Zitek within the [EPICUR-project](https://epicur.edu.eu/) at [BOKU University](https://www.boku.ac.at).
 The software is available on [GitHub](https://github.com/AlwinZitek/OpenRender) under the MIT License.
 
-CC0-lizenziert (Public Domain) can be imported from different Online-collections like:
+CC0-licensed (Public Domain) Icons can be imported from different Online-collections like:
 1. [https://bioicons.com/](https://bioicons.com/)
 2. [https://bioart.niaid.nih.gov/](https://bioart.niaid.nih.gov/discover?sort=date_desc&license=Public+Domain)
 
