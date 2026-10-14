@@ -447,25 +447,27 @@ MonoBehaviour:
     
 
     OpenRender was
-    developed by Alwin Zitek and Andreas Zitek in 2026 at <link="https://boku.ac.at"><color=#3A7BD5><u>BOKU
-    University</u></color></link> as part of the EPICUR project and is available
-    under the MIT License on <link="https://github.com/AlwinZitek/OpenRender"><color=#3A7BD5><u>GitHub</u></color></link>.
+    developed by Alwin Zitek and Andreas Zitek in 2026 as part of the <link="https://epicur.edu.eu/"><color=#3A7BD5><u>EPICUR
+    project</u></color></link> at <link="https://www.boku.ac.at"><color=#3A7BD5><u>BOKU
+    University</u></color></link>.
+
+    The software is available on <link="https://github.com/AlwinZitek/OpenRender"><color=#3A7BD5><u>GitHub</u></color></link>
+    under the MIT License.
 
     
 
-    CC0-licensed
-    (public domain) icons can be imported from online collections such as:
+    Icons licensed under CC0 or in the public
+    domain can be found in the following online collections:
 
-    -
-    <link="https://bioicons.com"><color=#3A7BD5><u>Bioicons</u></color></link>
+    1. <link="https://bioicons.com"><color=#3A7BD5><u>Bioicons</u></color></link>
 
-    -
+    2.
     <link="https://bioart.niaid.nih.gov"><color=#3A7BD5><u>NIH BioArt Source</u></color></link>
 
     
 
     Have
-    fun!'
+    fun with OpenRender!'
 --- !u!114 &21898282
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9117,8 +9119,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 993966345}
-  - component: {fileID: 993966346}
   - component: {fileID: 993966347}
+  - component: {fileID: 993966346}
   m_Layer: 0
   m_Name: UndoManager
   m_TagString: Untagged
@@ -9162,14 +9164,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 993966344}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 45396656de47b554280e319f94439593, type: 3}
+  m_Script: {fileID: 11500000, guid: d1d42f5a0cead36479cc4fffd6ecb06c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TextSpawner
   iconsContainer: {fileID: 177873408}
-  defaultFontSize: 4
+  defaultFontSize: 12
   minFontSize: 1
   sizePerUnitDragged: 1
-  openEditAfterPlacing: 0
+  openEditAfterPlacing: 1
+  newTextFontSize: 12
 --- !u!1 &1006929845
 GameObject:
   m_ObjectHideFlags: 0
@@ -10896,7 +10899,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8bdda22bab0b13b48a2000ed20a11a9e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TooltipTrigger
-  tooltipText: Eigene Grafik importieren
+  tooltipText: 'Import Custom Graphic
+
+'
 --- !u!1 &1125012225
 GameObject:
   m_ObjectHideFlags: 0
@@ -13056,8 +13061,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1405515619}
   m_HandleRect: {fileID: 1405515618}
   m_Direction: 2
-  m_Value: 1.0000029
-  m_Size: 0
+  m_Value: 1
+  m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -13132,10 +13137,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 21898280}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 535.5, y: 279}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: -50}
+  m_SizeDelta: {x: -500.00003, y: -300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1357827130
 MonoBehaviour:
@@ -13190,8 +13195,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 30
+  m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
