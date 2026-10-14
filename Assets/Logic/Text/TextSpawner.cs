@@ -7,7 +7,7 @@ public class TextSpawner : MonoBehaviour
     public Transform iconsContainer;
 
     [Tooltip("Schriftgroesse neuer Textfelder in Weltunits (beim direkten Einfuegen)")]
-    public float defaultFontSize = 1.5f;
+    public float defaultFontSize = 12f;
 
     [Header("Platzieren mit Ziehen")]
     [Tooltip("Kleinste Schriftgroesse, auch wenn man kaum zieht")]
@@ -101,18 +101,24 @@ public class TextSpawner : MonoBehaviour
         return label;
     }
 
-    // Alter Weg: Text sofort in der Bildschirmmitte einfuegen.
-    // Bleibt erhalten, falls irgendwo noch so verkabelt.
-    public void SpawnText(string text = "Text")
+
+    public float newTextFontSize = 12f;
+
+    public void SpawnText(string text = "Double-click to edit")
     {
         Vector3 spawnPos = Camera.main.transform.position;
         spawnPos.z = 0f;
 
-        TextLabel label = CreateLabel(spawnPos, defaultFontSize, text);
+        TextLabel label = CreateLabel(spawnPos, newTextFontSize, text);
 
         UndoManager.Instance.RegisterCommand(
             new SpawnCommand(label.gameObject, iconsContainer, null)
         );
+
+        // sofort auswaehlen, damit die Griffe dran sind und sichtbar ist,
+        // dass etwas passiert ist
+        SelectionManager.Instance?.DeselectAll();
+        SelectionManager.Instance?.Select(label.gameObject);
     }
 
     Vector3 GetMouseWorldPos()

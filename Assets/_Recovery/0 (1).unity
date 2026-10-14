@@ -442,13 +442,33 @@ MonoBehaviour:
   closeButton: {fileID: 669496305}
   backdropButton: {fileID: 2105280778}
   creditsText: {fileID: 1357827130}
-  credits: "<size=150%><b>\xDCber OpenRenderDemo</b></size>\n\nOpenRenderDemo wurde
-    von Alwin Zitek und Andreas Zitek im Jahr 2026 an der <link=\"https://boku.ac.at\"><color=#3A7BD5><u>BOKU
-    University</u></color></link> entwickelt und steht unter der MIT-Lizenz auf <link=\"https://github.com/AlwinZitek/OpenRender\"><color=#3A7BD5><u>GitHub</u></color></link>
-    zur Verf\xFCgung.\n\nDie mitgelieferten Icons sind ausnahmslos CC0-lizenziert
-    oder Public Domain und stammen aus folgenden Online-Sammlungen:\n- <link=\"https://bioicons.com\"><color=#3A7BD5><u>Bioicons</u></color></link>\n-
-    <link=\"https://bioart.niaid.nih.gov\"><color=#3A7BD5><u>NIH BioArt Source</u></color></link>\n\nViel
-    Spa\xDF!"
+  credits: '<size=150%><b>About OpenRender</b></size>
+
+    
+
+    OpenRenderDemo
+    was developed by Alwin Zitek and Andreas Zitek in 2026 as part of the <link="https://epicur.edu.eu/"><color=#3A7BD5><u>EPICUR
+    project</u></color></link> at <link="https://www.boku.ac.at"><color=#3A7BD5><u>BOKU
+    University</u></color></link>.
+
+    The software is available on <link="https://github.com/AlwinZitek/OpenRender"><color=#3A7BD5><u>GitHub</u></color></link>
+    under the MIT License.
+
+    
+
+    All included icons are licensed under CC0
+    or are in the public domain and come from the following online collections:
+
+    1.
+    <link="https://bioicons.com"><color=#3A7BD5><u>Bioicons</u></color></link>
+
+    2.
+    <link="https://bioart.niaid.nih.gov"><color=#3A7BD5><u>NIH BioArt Source</u></color></link>
+
+    
+
+    Have
+    fun with OpenRender!'
 --- !u!114 &21898282
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8912,6 +8932,7 @@ MonoBehaviour:
   minFontSize: 1
   sizePerUnitDragged: 1
   openEditAfterPlacing: 0
+  newTextFontSize: 12
 --- !u!1 &1006929845
 GameObject:
   m_ObjectHideFlags: 0
@@ -10520,7 +10541,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8bdda22bab0b13b48a2000ed20a11a9e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TooltipTrigger
-  tooltipText: Add a text label
+  tooltipText: Insert Text Box
 --- !u!1 &1117655136
 GameObject:
   m_ObjectHideFlags: 0
@@ -10667,7 +10688,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8bdda22bab0b13b48a2000ed20a11a9e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TooltipTrigger
-  tooltipText: Eigene Grafik importieren
+  tooltipText: Import Custom Graphic
 --- !u!1 &1125012225
 GameObject:
   m_ObjectHideFlags: 0
@@ -12964,8 +12985,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1405515619}
   m_HandleRect: {fileID: 1405515618}
   m_Direction: 2
-  m_Value: 1.0000029
-  m_Size: 0
+  m_Value: 1
+  m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -13040,10 +13061,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 21898280}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 535.5, y: 279}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 12.5}
+  m_SizeDelta: {x: -200, y: -175}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1357827130
 MonoBehaviour:
@@ -13067,14 +13088,14 @@ MonoBehaviour:
       m_Calls: []
   m_text: '<size=150%><b>About OpenRender</b></size>
 
-    
 
-    OpenRender was
-    developed by Alwin Zitek and Andreas Zitek in 2026 at <link="https://boku.ac.at"><color=#3A7BD5><u>BOKU
+
+    OpenRender was developed
+    by Alwin Zitek and Andreas Zitek in 2026 at <link="https://boku.ac.at"><color=#3A7BD5><u>BOKU
     University</u></color></link> as part of the EPICUR project and is available
     under the MIT License on <link="https://github.com/AlwinZitek/OpenRender"><color=#3A7BD5><u>GitHub</u></color></link>.
 
-    
+
 
     All
     included icons are, without exception, CC0-licensed or in the public domain and
@@ -13085,7 +13106,7 @@ MonoBehaviour:
     -
     <link="https://bioart.niaid.nih.gov"><color=#3A7BD5><u>NIH BioArt Source</u></color></link>
 
-    
+
 
     Have
     fun!'

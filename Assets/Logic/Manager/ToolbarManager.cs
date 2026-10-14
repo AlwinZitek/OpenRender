@@ -43,7 +43,7 @@ public class ToolbarManager : MonoBehaviour
         Wire(deleteButton, DeleteSelected);
 
         // Werkzeuge
-        Wire(textButton, () => TextSpawner.Instance.StartPlacement());
+        Wire(textButton, () => TextSpawner.Instance.SpawnText());
         Wire(arrowButton, () => ArrowSpawner.Instance.StartArrow());
         Wire(lineButton, () => ArrowSpawner.Instance.StartLine());
 
