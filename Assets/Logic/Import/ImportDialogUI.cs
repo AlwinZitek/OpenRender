@@ -35,7 +35,7 @@ public class ImportDialogUI : MonoBehaviour
     [Tooltip("Haken: Bild nach dem Import direkt auf die Canvas setzen")]
     public Toggle spawnAfterImportToggle;
 
-    private const string DropdownPlaceholder = "Tag auswählen…";
+    private const string DropdownPlaceholder = "Select tag…";
 
     private string pendingFileName;
     private Action<string, string, bool> onConfirm;

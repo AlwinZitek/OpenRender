@@ -444,20 +444,20 @@ MonoBehaviour:
   creditsText: {fileID: 1357827130}
   credits: '<size=150%><b>About OpenRender</b></size>
 
-    
 
-    OpenRenderDemo
-    was developed by Alwin Zitek and Andreas Zitek in 2026 as part of the <link="https://epicur.edu.eu/"><color=#3A7BD5><u>EPICUR
+
+    OpenRenderDemo was developed
+    by Alwin Zitek and Andreas Zitek in 2026 as part of the <link="https://epicur.edu.eu/"><color=#3A7BD5><u>EPICUR
     project</u></color></link> at <link="https://www.boku.ac.at"><color=#3A7BD5><u>BOKU
     University</u></color></link>.
 
     The software is available on <link="https://github.com/AlwinZitek/OpenRender"><color=#3A7BD5><u>GitHub</u></color></link>
     under the MIT License.
 
-    
 
-    All included icons are licensed under CC0
-    or are in the public domain and come from the following online collections:
+
+    All included icons are licensed under CC0 or are
+    in the public domain and come from the following online collections:
 
     1.
     <link="https://bioicons.com"><color=#3A7BD5><u>Bioicons</u></color></link>
@@ -465,7 +465,7 @@ MonoBehaviour:
     2.
     <link="https://bioart.niaid.nih.gov"><color=#3A7BD5><u>NIH BioArt Source</u></color></link>
 
-    
+
 
     Have
     fun with OpenRender!'
@@ -13063,8 +13063,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 12.5}
-  m_SizeDelta: {x: -200, y: -175}
+  m_AnchoredPosition: {x: 0, y: -50}
+  m_SizeDelta: {x: -500, y: -300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1357827130
 MonoBehaviour:
