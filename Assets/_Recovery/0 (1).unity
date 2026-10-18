@@ -403,7 +403,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &21898280
 RectTransform:
   m_ObjectHideFlags: 0
@@ -444,27 +444,27 @@ MonoBehaviour:
   creditsText: {fileID: 1357827130}
   credits: '<size=150%><b>About OpenRender</b></size>
 
-    
 
-    OpenRender was
-    developed by Alwin Zitek and Andreas Zitek in 2026 as part of the <link="https://epicur.edu.eu/"><color=#3A7BD5><u>EPICUR
+
+    OpenRender was developed
+    by Alwin Zitek and Andreas Zitek in 2026 as part of the <link="https://epicur.edu.eu/"><color=#3A7BD5><u>EPICUR
     project</u></color></link> at <link="https://www.boku.ac.at"><color=#3A7BD5><u>BOKU
     University</u></color></link>.
 
     The software is available on <link="https://github.com/AlwinZitek/OpenRender"><color=#3A7BD5><u>GitHub</u></color></link>
     under the MIT License.
 
-    
 
-    Icons licensed under CC0 or in the public
-    domain can be found in the following online collections:
+
+    Icons licensed under CC0 or in the public domain
+    can be found in the following online collections:
 
     1. <link="https://bioicons.com"><color=#3A7BD5><u>Bioicons</u></color></link>
 
     2.
     <link="https://bioart.niaid.nih.gov"><color=#3A7BD5><u>NIH BioArt Source</u></color></link>
 
-    
+
 
     Have
     fun with OpenRender!'
@@ -13195,8 +13195,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 28
+  m_fontSizeBase: 28
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
