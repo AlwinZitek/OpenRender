@@ -13086,7 +13086,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '<size=150%><b>About OpenRender</b></size>
+  m_text: '<size=150%><b>About OpenRenderDemo</b></size>
 
 
 
